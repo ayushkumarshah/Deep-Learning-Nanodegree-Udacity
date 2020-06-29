@@ -1,4 +1,4 @@
-# Deep-Learning-Nano-Degree-Udacity-Projects
+# Deep-Learning-Nanodegree-Udacity
 
 This repository contains the course materials and projects that I submitted during the completion of the [Deep Learning Nano Degree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 provided by [Udacity](https://www.udacity.com/).
