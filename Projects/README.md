@@ -14,8 +14,3 @@
 
 - [Project 5: Deploying a Sentiment Analysis Model](https://github.com/ayushkumarshah/Deep-Learning-Nano-Degree-Udacity/tree/master/Projects/P5_DeployingSentimentAnalysisModel)
 
-## Certificate
-
-![certificate](docs/DeepLearningNanoDegree.jpg)
-
-
