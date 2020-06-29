@@ -1,9 +1,4 @@
-# Deep-Learning-Nano-Degree-Udacity-Projects
-
-This repository contains the course materials and projects that I submitted during the completion of the [Deep Learning Nano Degree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
-provided by [Udacity](https://www.udacity.com/).
-
-## Projects
+# Projects
 
 - [Project 1: Neural Networks: Predicting Bike Sharing
    Patterns](https://github.com/ayushkumarshah/Deep-Learning-Nano-Degree-Udacity/tree/master/Projetcs/P1_first_neural_network-275412)
@@ -18,8 +13,3 @@ provided by [Udacity](https://www.udacity.com/).
    Patterns](https://github.com/ayushkumarshah/Deep-Learning-Nano-Degree-Udacity/tree/master/Projetcs/P4_GAN_Face_Generation)
 
 - [Project 5: Deploying a Sentiment Analysis Model](https://github.com/ayushkumarshah/Deep-Learning-Nano-Degree-Udacity/tree/master/Projetcs/P5_DeployingSentimentAnalysisModel)
-
-## Certificate
-
-![certificate](docs/DeepLearningNanoDegree.jpg)
-
